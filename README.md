@@ -97,3 +97,8 @@ The notes for this challenge elude to a secret in a sensitive file. We see the e
 Post exploitation results in a successful crack of one of users passwords on the Freshly VM. More may be crackable, I did not let the rockyou run complete.
 
 ![Alt text](./crack.png?raw=true)
+
+
+## thanks
+
+Thanks out to TopHatSec for the VM challenge.
