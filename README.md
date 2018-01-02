@@ -94,6 +94,6 @@ The notes for this challenge elude to a secret in a sensitive file. We see the e
 
 ## post
 
-Post exploitation results inan succesfful crack of one of users passwords on the Freshly VM.
+Post exploitation results in a successful crack of one of users passwords on the Freshly VM. More may be crackable, I did not let the rockyou run complete.
 
 ![Alt text](./crack.png?raw=true)
