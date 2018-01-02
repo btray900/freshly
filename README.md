@@ -51,7 +51,7 @@ The databases are IDed.
 
 ![Alt text](./dbs.png?raw=true)
 
-The crdentials in the table are displayed.
+The credentials in the table are displayed.
 
 ![Alt text](./creds.png?raw=true)
 
